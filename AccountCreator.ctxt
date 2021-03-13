@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=AccountCreator
+comment1.params=
+comment1.target=void\ main()
+comment10.params=accounts
+comment10.target=void\ initiateProgram(java.util.ArrayList)
+comment11.params=accounts
+comment11.target=void\ saveProgram(java.util.ArrayList)
+comment12.params=accounts
+comment12.target=void\ closeProgram(java.util.ArrayList)
+comment2.params=act\ accounts
+comment2.target=void\ adminAccess(Account,\ java.util.ArrayList)
+comment3.params=act\ accounts
+comment3.target=void\ userAccess(Account,\ java.util.ArrayList)
+comment4.params=accounts
+comment4.target=void\ createAccount(java.util.ArrayList)
+comment5.params=accounts
+comment5.target=Account\ logIn(java.util.ArrayList)
+comment6.params=username\ accounts
+comment6.target=Account\ checkUsername(java.lang.String,\ java.util.ArrayList)
+comment7.params=password\ act
+comment7.target=java.lang.Boolean\ checkPassword(java.lang.String,\ Account)
+comment8.params=password
+comment8.target=java.lang.Boolean\ createPassword(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ generateSalt()
+numComments=13

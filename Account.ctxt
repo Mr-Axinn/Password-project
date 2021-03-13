@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Account
+comment1.params=Username\ Hash\ Salt\ Admin\ Average
+comment1.target=Account(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getUsername()
+comment3.params=
+comment3.target=java.lang.String\ getHash()
+comment4.params=
+comment4.target=java.lang.String\ getSalt()
+comment5.params=
+comment5.target=java.lang.String\ getAdmin()
+comment6.params=
+comment6.target=int\ getAverage()
+comment7.params=newPassword
+comment7.target=java.lang.String\ changePassword(java.lang.String)
+comment8.params=Average
+comment8.target=void\ setAverage(int)
+comment9.params=
+comment9.target=java.lang.String\ generateSalt()
+numComments=10

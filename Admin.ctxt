@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Admin
+comment1.params=act\ Accounts
+comment1.target=Admin(Account,\ java.util.ArrayList)
+comment2.params=userName
+comment2.target=int\ getAverage(java.lang.String)
+comment3.params=userName\ average
+comment3.target=boolean\ setAverage(java.lang.String,\ int)
+comment4.params=userName\ password
+comment4.target=boolean\ changeOtherPersonsPassword(java.lang.String,\ java.lang.String)
+numComments=5
